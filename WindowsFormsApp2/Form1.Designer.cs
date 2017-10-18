@@ -1,5 +1,7 @@
 ﻿namespace WindowsFormsApp2
 {
+     
+     
     partial class Form1
     {
         /// <summary>
